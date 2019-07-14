@@ -21,3 +21,20 @@ Metropolis algorithm implemented for Potts model
 
 ## Self avoiding Random Walks
 A program for self avoiding random walks through a lattice
+
+## Curietemp
+A program to determine Curie temperature
+
+## Curie-temp model creation 
+Curie temperature curve fitting model creation using keras
+
+## Curie-Temp prediction
+Predicting Curie temperature Using pretrained model
+
+## LSTM creation for metropolis
+Teaching a Long short Term memmory model to learn Metropolis algorithm
+
+## Metropolis Machine learning implementation and prediction
+ Using the trained model to predict The final states by using it combination with a Metropolis algorithm with fewer steps.
+ 
+ 
