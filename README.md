@@ -1,5 +1,5 @@
 # Monte-carlo
-The repository contains few notebooks containing Monte-carlo  methods of various kiunds
+The repository contains notebooks containing few Monte-Carlo algorithms and Machine learning implementation of Metropolis algorithm. 
 
 ## Hit
 The code for monte carlo method of hit and miss algorithm solved for a specifc problem.
